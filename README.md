@@ -1,4 +1,4 @@
-#= SPEC-001: Courtside - Local Basketball Game Tracker
+= SPEC-001: Courtside - Local Basketball Game Tracker
 :sectnums:
 :toc:
 
